@@ -46,7 +46,7 @@ let modelsJson = [
 
     // Objeto 5
     {
-        id: 5,36
+        id: 5,
         name: 'P47 D - Thunderbolt',
         img: 'img/P47D.png',
         price: [100.00, 150.00, 200.00],
